@@ -2,7 +2,7 @@
 - [x] <b>Model</b>: MSI GL63 8RE (2018)
 - [x] <b>Processor</b>: i5 8300H (2,3 GHz) 4GHz with turbo 4 physical threads.
 - [x] <b>IGPU (1)</b>: UHD 630
-- [x] <b>IGPU (2)</b>: GTX 1060 (6gb)
+- [x] <b>eGPU (2)</b>: GTX 1060 (6gb)
 - [x] <b>HDD</b>: 1TB
 - [x] <b>SSD</b>: 128 GB
 
